@@ -1,0 +1,3 @@
+/home/amitash01/test/build/CMakeFiles/edit_cache.dir
+/home/amitash01/test/build/CMakeFiles/rebuild_cache.dir
+/home/amitash01/test/build/CMakeFiles/hello.dir
