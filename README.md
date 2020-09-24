@@ -1,3 +1,1 @@
-# World-plugin
-# World-plugin
-# World-plugin
+To interact with a World in Gazebo through a World plugin
